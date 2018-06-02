@@ -1,0 +1,29 @@
+#outerbox
+{
+width: 2223px;
+
+}
+#sliderbox
+{
+	position:relative;
+	width: 2223px;
+	animation-name: sakil;
+	animation-duration: 12s;
+	animation-iteration-count: infinite;
+}
+#sliderbox img
+{
+	float: left;
+}
+@keyframes sakil{
+
+	0%
+	{
+		left: 0px;
+	}
+
+	100%
+	{
+		left: -900px;
+	}
+}
