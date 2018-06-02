@@ -1,12 +1,12 @@
 #outerbox
 {
-width: 2223px;
+width: 223px;
 
 }
 #sliderbox
 {
 	position:relative;
-	width: 2223px;
+	width: 223px;
 	animation-name: sakil;
 	animation-duration: 12s;
 	animation-iteration-count: infinite;
@@ -24,6 +24,6 @@ width: 2223px;
 
 	100%
 	{
-		left: -900px;
+		left: -100px;
 	}
 }
